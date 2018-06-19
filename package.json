@@ -1,0 +1,23 @@
+{
+  "name": "anonymous-chat",
+  "version": "1.0.0",
+  "description": "supposed to be a replica or better version of an app that used to exist called Yik Yak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgonzalez452/anonymous-chat.git"
+  },
+  "keywords": [
+    "anonymous",
+    "chat"
+  ],
+  "author": "Kevin Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgonzalez452/anonymous-chat/issues"
+  },
+  "homepage": "https://github.com/kgonzalez452/anonymous-chat#readme"
+}
